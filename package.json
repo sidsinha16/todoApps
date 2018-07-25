@@ -1,0 +1,24 @@
+{
+  "name": "nodeapps",
+  "version": "1.0.0",
+  "description": "My first Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "todo",
+    "node.js",
+    "express"
+  ],
+  "author": "spydeeBoy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "generator": "^1.0.1",
+    "mongoose": "^5.2.5",
+    "nodemon": "^1.18.3"
+  }
+}
